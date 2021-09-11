@@ -30,6 +30,12 @@
       "label": "物品",
       "path": "./packs/Item.db",
       "entity": "Item"
+    },
+    {
+      "name": "Rules",
+      "label": "規則",
+      "path": "./packs/Rules.db",
+      "entity": "JournalEntry"
     }
   ],
   "system": [],
