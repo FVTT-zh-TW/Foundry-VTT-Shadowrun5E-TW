@@ -18,6 +18,20 @@
       "path": "./lang/zh-TW.json"
     }
   ],
+    "packs": [
+    {
+      "name": "Actor",
+      "label": "生物",
+      "path": "./packs/Actor.db",
+      "entity": "Actor"
+    },
+    {
+      "name": "Item",
+      "label": "物品",
+      "path": "./packs/Item.db",
+      "entity": "Item"
+    }
+  ],
   "system": [],
   "dependencies": [],
   "socket": false,
